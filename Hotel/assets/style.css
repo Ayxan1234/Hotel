@@ -1,0 +1,235 @@
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+  
+}
+.SpecialText{
+    position: absolute;
+    top: 310px;
+}
+.row{
+    width: 88%;
+    height: 150px;
+    margin: 0 auto;
+    background-color: rgb(41, 39, 39); 
+}
+.bg-warning-subtle {
+    background-color: #C5A88A !important;
+    width: 200px;
+    height: 150px;
+}
+.anadiv{
+    background-color: #f8f8f8;
+    height: 700px;
+}
+.icon{
+    color: #C5A88A;
+}
+.img1 img{
+    width: 287px;
+    height: 227px;
+}
+.img2 img{
+    width: 287px;
+    height: 215px;
+}
+.bala:hover .card-body{
+    background-color: black;
+}
+.bala:hover .card-body .card-title{
+    color: white;
+}
+.TwoSec{
+    width: 40%;
+   margin-left: 30px;
+   padding-top: 5rem;
+}
+.big{
+    font-size: 60px !important;
+    font-family: "Old Standard TT", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.big1{
+    font-family: "Old Standard TT", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.big3{
+    color: white;
+    background-color: #C5A88A;
+    border: none;
+    width: 180px;
+    height: 50px;
+    font-size: 13px;
+    margin-top: 30px;
+}
+.big4{
+    color: #C5A88A;
+}
+.b1{
+    font-family: "Old Standard TT", serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 60px;
+}
+.ThreeSec{
+    background-color: #f8f8f8;
+    height: 400px;
+}
+.b2{
+    color: #C5A88A;
+}
+.box i{
+    font-size: 70px;
+}
+.box{
+    width: 155px;
+    height: 140px;
+    border-radius: 50% 50% 50% 0;
+}
+.b2{
+    color: #C5A88A;
+}
+.boxs{
+    /* width: 75%; */
+    margin: 0 auto;
+}
+.h4, h4 {
+    font-size: 16px;
+}
+.box:hover{
+    background-color: #C5A88A !important;
+}
+.box:hover i{
+    color: white;
+}
+.box:hover h4{
+    color: white;
+}
+.FourSec{
+    width: 80%; 
+    margin: 0 auto;
+    background-color: #f8f8f8;
+}
+.FourSec1{
+    background-color: #f8f8f8;
+}
+.img3 img{
+    width: 366px;
+    height: 250px;
+}
+.img4 img{
+    width: 366px;
+    height: 275px;
+}
+.img5 img{
+    width: 366px;
+    height: 250px;
+}
+.d-inline{
+    background-color: white;
+    border: none;
+}
+.a5{
+    color: #C5A88A;
+}
+.BoxSec{
+    width: 100%;
+    height: 550px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://preview.colorlib.com/theme/unwind/images/bg_2.jpg.webp);
+}
+.BoxSec1{
+    background-color: rgba(0, 0, 0, 0.373);
+    width: 100%;
+    height: 100%;
+}
+.b7{
+    font-family: "Old Standard TT", serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 60px;
+}
+.icon{
+    width: 60px;
+    height: 60px;
+    color: white;
+    background-color: #C5A88A;
+    border-radius: 50%;
+    font-size: 25px;
+    margin: 0 auto !important;
+    padding-top: 18px;
+}
+.FiveSec{
+    background-color: #f8f8f8;
+    height: 400px;
+}
+.FiveSec1{
+    width: 73%;
+    margin: 0 auto;
+}
+.card-body img{
+    width: 90px;
+    height: 80px;
+    border-radius: 50%;
+}
+.icone{
+    width: 90px;
+    height: 90px;
+    margin: 0 auto;
+}
+.SixSec{
+    width: 90%;
+    margin: 0 auto;
+    background-color: #f8f8f8;
+}
+.SixSec1{
+    height: 700px;
+    background-color: #f8f8f8;
+}
+.class1{
+    padding-left: 15px;
+}
+.class2{
+    padding-left: 15px;
+}
+.color{
+    color: #C5A88A;
+}
+.imgs img{
+    width: 284px;
+    height: 250px;
+}
+.row{
+    width: 100%;
+    height: 200px;
+    background-color: #1a1a1a;
+}
+.maps{
+    color: #C5A88A;
+}
+.tele{
+    color: #C5A88A;
+}
+.teleg{
+    color: #C5A88A;
+}
+.footer1{
+    margin-top: 30px;
+    background-color: #1a1a1a;
+}
+.NineSec{
+    background-color: #f8f8f8;
+}
+.NineSec img{
+    width: 592px;
+    height: 600px;
+   
+}
+.SectionOne img{
+    width: 104px;
+    height: 86px;
+    border-radius: 50%;
+}
+
